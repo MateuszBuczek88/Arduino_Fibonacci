@@ -10,6 +10,9 @@ from 0-9 range. Interpreted number is used as argument of recursive Fibonacci me
 This method returns revelant element from Fibonacci sequence. Than result is shown on
 the OLED display.
 
+## Video
+[![Arduino Fibonacci](http://img.youtube.com/vi/ANHoEIkpWbg/0.jpg)](http://www.youtube.com/watch?v=ANHoEIkpWbg "Arduino Fibonacci")
+
 ## Authors
 
 * **Mateusz Buczek** - *Initial work* - [Mateusz Buczek GitHub](https://github.com/MateuszBuczek88)
